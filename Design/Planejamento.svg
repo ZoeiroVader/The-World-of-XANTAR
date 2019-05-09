@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Planejamento.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="476.66941"
+     inkscape:cy="595.18744"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-nodes="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect3713"
+       width="61.383331"
+       height="89.693748"
+       x="62.441666"
+       y="93.535416"
+       style="fill:#784421;stroke-width:0.26458332"
+       ry="3.7041667" />
+    <path
+       sodipodi:type="star"
+       style="fill:#8080ff;stroke-width:0.16736129"
+       id="path3721"
+       sodipodi:sides="5"
+       sodipodi:cx="121.60529"
+       sodipodi:cy="97.078492"
+       sodipodi:r1="13.489985"
+       sodipodi:r2="11.095553"
+       sodipodi:arg1="0.91736999"
+       sodipodi:arg2="1.5555343"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 129.806,107.78961 -8.03137,0.38314 -7.82206,0.015 -2.84622,-7.51989 -2.43141,-7.434587 6.27232,-5.030686 6.31936,-4.609819 6.72272,4.410755 6.33699,4.585565 -2.11744,7.756682 z"
+       inkscape:transform-center-x="0.10465425"
+       inkscape:transform-center-y="-1.1882442" />
+    <path
+       sodipodi:type="star"
+       style="fill:#8080ff;stroke-width:0.1814101"
+       id="path3723"
+       sodipodi:sides="5"
+       sodipodi:cx="121.97163"
+       sodipodi:cy="181.76169"
+       sodipodi:r1="13.546369"
+       sodipodi:r2="11.141929"
+       sodipodi:arg1="2.7859568"
+       sodipodi:arg2="3.4142753"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 109.27292,186.47835 1.96845,-7.71736 2.32033,-7.61896 7.94793,-0.51269 7.96308,-0.14763 2.94364,7.40051 2.60113,7.52772 -6.12866,5.08645 -6.3555,4.80002 -6.73136,-4.25691 z"
+       inkscape:transform-center-x="-0.17357894"
+       inkscape:transform-center-y="1.1273787" />
+    <path
+       sodipodi:type="star"
+       style="fill:#8080ff;stroke-width:0.13229166"
+       id="path3725"
+       sodipodi:sides="3"
+       sodipodi:cx="64.029166"
+       sodipodi:cy="183.6905"
+       sodipodi:r1="11.90625"
+       sodipodi:r2="5.7569408"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.50391771"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 64.029167,171.78426 5.041339,9.12645 5.269776,8.73292 -10.42441,-0.1973 -10.19782,0.1973 5.383071,-8.92915 z"
+       inkscape:transform-center-y="-1.0566696" />
+    <rect
+       style="fill:#8080ff;stroke-width:0.26458332"
+       id="rect3727"
+       width="50.006248"
+       height="26.722916"
+       x="68.444229"
+       y="110.03982"
+       ry="3.7041667" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.20663929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d5e5ff;fill-opacity:1;stroke:none;stroke-width:0.23016597"
+       x="69.106529"
+       y="145.50453"
+       id="text3734"><tspan
+         sodipodi:role="line"
+         id="tspan3732"
+         x="69.106529"
+         y="145.50453"
+         style="font-size:3.68265557px;fill:#d5e5ff;stroke-width:0.23016597">lorem ipsun dolor sit amet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.20664024px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d5e5ff;fill-opacity:1;stroke:none;stroke-width:0.23016597"
+       x="68.573906"
+       y="149.86188"
+       id="text3734-4"><tspan
+         sodipodi:role="line"
+         id="tspan3732-6"
+         x="68.573906"
+         y="149.86188"
+         style="font-size:3.68265557px;fill:#d5e5ff;stroke-width:0.23016597">lorem ipsun dolor sit amet</tspan></text>
+    <text
+       id="text3783"
+       y="154.23578"
+       x="69.106529"
+       style="font-style:normal;font-weight:normal;font-size:9.20663929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d5e5ff;fill-opacity:1;stroke:none;stroke-width:0.23016597"
+       xml:space="preserve"><tspan
+         style="font-size:3.68265557px;fill:#d5e5ff;stroke-width:0.23016597"
+         y="154.23578"
+         x="69.106529"
+         id="tspan3781"
+         sodipodi:role="line">lorem ipsun dolor sit amet</tspan></text>
+    <text
+       id="text3787"
+       y="158.59312"
+       x="68.573906"
+       style="font-style:normal;font-weight:normal;font-size:9.20664024px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d5e5ff;fill-opacity:1;stroke:none;stroke-width:0.23016597"
+       xml:space="preserve"><tspan
+         style="font-size:3.68265557px;fill:#d5e5ff;stroke-width:0.23016597"
+         y="158.59312"
+         x="68.573906"
+         id="tspan3785"
+         sodipodi:role="line">lorem ipsun dolor sit amet</tspan></text>
+  </g>
+</svg>
