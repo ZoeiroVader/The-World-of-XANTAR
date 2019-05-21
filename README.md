@@ -1,7 +1,7 @@
 # The World of XANTAR
 Um jogo de estratégia em turnos baseado em coração da pedra
 
-# key features:
+# Key features:
 	Colecione cartas
 	Multiplayer
 	Abra pacotes
